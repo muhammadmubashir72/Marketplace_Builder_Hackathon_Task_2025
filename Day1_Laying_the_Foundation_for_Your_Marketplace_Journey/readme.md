@@ -69,3 +69,7 @@ Additionally, we provide services such as:
 |                | - ETA Updates: Accurate delivery estimates.                               |
 
 This design ensures the marketplace is user-friendly, reliable, and optimized for modern consumer needs.
+
+# Day 1: Crafting the Core of Your Marketplace Vision
+
+[**View Detailed Day 1 Document (PDF)**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day1_Laying_the_Foundation_for_Your_Marketplace_Journey/Day1_Laying_the_Foundation_for_Your_Marketplace_Journey.pdf)
