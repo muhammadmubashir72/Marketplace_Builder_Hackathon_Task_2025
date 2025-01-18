@@ -286,6 +286,7 @@ export default {
   ],
 };
 
+```
 
 ## 📞 Contact & Support
 
