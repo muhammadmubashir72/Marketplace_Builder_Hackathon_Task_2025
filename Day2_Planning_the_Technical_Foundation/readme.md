@@ -285,6 +285,8 @@ export default {
     },
   ],
 };
+
+
 ## 📞 Contact & Support
 
 For any queries or assistance:
@@ -296,6 +298,5 @@ For any queries or assistance:
 | 📱 **Phone**         | 1-800-MARKET                                    |
 | 💬 **Live Chat**     | Available 24/7                                  |
 
-# Day 2: Planning the Technical Foundation
-
-[**View Detailed Day 2 Document (PDF)**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day2_Planning_the_Technical_Foundation/Day2_Planning_the_Technical_Foundation.pdf)
+### 📘 Day 2: Planning the Technical Foundation  
+[**📄 View Detailed Day 2 Document (PDF)**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day2_Planning_the_Technical_Foundation/Day2_Planning_the_Technical_Foundation.pdf)  
