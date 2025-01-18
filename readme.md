@@ -28,3 +28,23 @@
 # Day 2: Planning the Technical Foundation
 
 [**View Detailed Day 2 Document (PDF)**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day2_Planning_the_Technical_Foundation/Day2_Planning_the_Technical_Foundation.pdf)
+
+---
+
+## Day 3: API Integration and Data Migration Report - Bandage  
+
+## Overview
+- Fetched product data (images, titles, prices, etc.) from an external API and mapped it to Sanity CMS.  
+- Populated Sanity CMS fields dynamically for consistent data management.  
+- Successfully exported and re-imported data using Sanity CLI for verification.  
+
+## Future Steps
+- Automate data fetching and updates.  
+- Enhance features like inventory management and UI/UX.  
+
+
+# Day 3: API Integration and Data Migration
+
+[**View Detailed Day 2 Document (PDF)**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day_3_API_Integration_and_Data_Migration/Day_3_API_Integration_and_Data_Migration.pdf)
+
+
