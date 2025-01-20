@@ -91,5 +91,5 @@ Design and develop **dynamic frontend components** to display marketplace data f
 
 **Happy Coding! 🚀**  
 
-- **Day 4**: Building Dynamic Frontend Components for Bandage Marketplace
+### 📘Day 4: Building Dynamic Frontend Components for Bandage Marketplace
 [**View Detailed Day 3 Document (PDF)**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day4_Building_Dynamic_Frontend_Components_for_Bandage/Day4_Building_Dynamic_Frontend_Components_for_Bandage.pdf)
