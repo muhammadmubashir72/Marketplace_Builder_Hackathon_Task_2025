@@ -45,3 +45,51 @@
 
 ### 📘 Day 3: API Integration and Data Migration  
 [**📄 View Detailed Day 3 Document (PDF)**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day3_API_Integration_and_Data_Migration/Day3_API_Integration_and_Data_Migration.pdf)  
+
+
+# 🌟 Hackathon Day 4: Bandage Marketplace Template  
+**Theme:** Building Dynamic Frontend Components
+
+---
+
+## 🎯 Objective  
+Design and develop **dynamic frontend components** to display marketplace data from **Sanity CMS** or APIs, focusing on **modular, reusable components** for scalable, responsive web applications.
+
+---
+
+## 🏆 Key Learning Outcomes  
+- ✅ Build dynamic components fetching data from CMS or APIs.  
+- ✅ Implement reusable and modular components.  
+- ✅ Apply state management techniques.  
+- ✅ Focus on responsive design and UX/UI best practices.  
+- ✅ Replicate professional workflows for client projects.
+
+---
+
+## 🧩 Key Components to Build  
+1. **Product Listing Component** 🛍️  
+2. **Product Detail Component** 🛒  
+3. **Category Component** 📂  
+4. **Cart Component** 🛒  
+5. **Wishlist Component** 💖  
+6. **User Profile Component** 👤  
+7. **Reviews and Ratings Component** ⭐  
+8. **Related Products Component** 🔗  
+9. **Header Component** 🔝  
+10. **Footer Component** 📢
+
+---
+
+## 🛠️ Tools and Technologies  
+- **Frontend Framework:** ReactJS NEXTJS  
+- **State Management:** Context API  
+- **CMS/Backend:** Sanity CMS or APIs  
+- **Styling:** CSS, Tailwind CSS  
+- **Responsive Design:** Flexbox, Grid, Media Queries  
+
+---
+
+**Happy Coding! 🚀**  
+
+- **Day 4**: Building Dynamic Frontend Components for Bandage Marketplace
+[**View Detailed Day 3 Document (PDF)**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day4_Building_Dynamic_Frontend_Components_for_Bandage/Day4_Building_Dynamic_Frontend_Components_for_Bandage.pdf)
