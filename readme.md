@@ -93,3 +93,33 @@ Design and develop **dynamic frontend components** to display marketplace data f
 
 ### 📘Day 4: Building Dynamic Frontend Components for Bandage Marketplace
 [**View Detailed Day 3 Document (PDF)**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day4_Building_Dynamic_Frontend_Components_for_Bandage/Day4_Building_Dynamic_Frontend_Components_for_Bandage.pdf)
+
+
+# Day 5: Testing, Error Handling, and Backend Integration Refinement 🚀
+
+## Overview
+
+Day 5 focused on ensuring the marketplace is ready for deployment. Key activities included functional testing, error handling, performance optimization, security testing, user acceptance testing (UAT), and documentation updates. The result is a robust, optimized, and user-friendly platform.
+
+---
+
+### Key Activities:
+1. *Functional Testing*: Validated core features like product listing, cart operations, and responsive design.
+2. *Error Handling*: Implemented clear error messages and fallback UI.
+3. *Performance Optimization*: Improved load times and responsiveness.
+4. *Security Testing*: Ensured input validation and secure API communication.
+5. *User Acceptance Testing (UAT)*: Simulated real-world usage for a seamless experience.
+6. *Documentation*: Created a detailed testing report.
+
+---
+
+### Conclusion:
+Day 5 ensured the marketplace is secure, optimized, and ready for real-world deployment. All key components were tested and refined for performance, usability, and security.
+
+---
+
+### 🌟 *Day 5: Testing, Error Handling, and Backend Integration Refinement* 🌟
+
+[**📄 View Detailed Day 3 Document (PDF)**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day5_Testing_Error_Handling_and_Backend_Integration_Refinement/Day5_Testing_Error_Handling_and_Backend_Integration_Refinement.pdf)
+
+[**📊 CSV-Based Testing Report**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day5_Testing_Error_Handling_and_Backend_Integration_Refinement/Testing_Report_Bandagecsv.csv)
