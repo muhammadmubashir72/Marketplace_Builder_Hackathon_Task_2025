@@ -123,3 +123,42 @@ Day 5 ensured the marketplace is secure, optimized, and ready for real-world dep
 [**📄 View Detailed Day 3 Document (PDF)**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day5_Testing_Error_Handling_and_Backend_Integration_Refinement/Day5_Testing_Error_Handling_and_Backend_Integration_Refinement.pdf)
 
 [**📊 CSV-Based Testing Report**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day5_Testing_Error_Handling_and_Backend_Integration_Refinement/Testing_Report_Bandagecsv.csv)
+
+
+
+# **Day 6 - Deployment Preparation and Staging Environment Setup** 🌐🚀  
+
+## **Overview**  
+Day 6 focused on setting up a staging environment to simulate production and ensure a smooth deployment. Key tasks included deployment planning, configuring environment variables, setting up and testing the staging environment, and updating documentation.  
+
+---
+
+## **Key Steps**  
+
+1. **Deployment Planning** 🗂️  
+   - Defined a structured deployment process.  
+
+2. **Environment Variables** 🔑  
+   - Secured sensitive data and ensured accessibility.  
+
+3. **Staging Setup** ⚙️  
+   - Created a production-like environment for testing.  
+
+4. **Testing** ✅  
+   - Conducted functionality, performance, and error-handling tests.  
+
+5. **Documentation** 📝  
+   - Updated test reports and deployment guides.  
+
+---
+
+## **Conclusion**  
+The staging environment ensures a risk-free deployment by replicating production, identifying potential issues, and ensuring readiness for a live release. 🚀  
+
+---
+
+### 🌟 *Day 6 - Deployment Preparation and Staging Environment Setup* 🌟
+
+[**📄 View Detailed Day 3 Document (PDF)**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day6_Deployment_Preparation_and_Staging_Environment_Setup/Day6_Deployment_Preparation_and_Staging_Environment_Setup.pdf)
+
+[**📊 CSV-Based Testing Report**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day6_Deployment_Preparation_and_Staging_Environment_Setup/Testing_Report_Bandagecsv.csv)
