@@ -162,3 +162,32 @@ The staging environment ensures a risk-free deployment by replicating production
 [**📄 View Detailed Day 3 Document (PDF)**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day6_Deployment_Preparation_and_Staging_Environment_Setup/Day6_Deployment_Preparation_and_Staging_Environment_Setup.pdf)
 
 [**📊 CSV-Based Testing Report**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day6_Deployment_Preparation_and_Staging_Environment_Setup/Testing_Report_Bandagecsv.csv)
+
+
+
+# **Day 7 - Live Deployment and Post-Launch Practices** 🚀  
+
+## **Overview**  
+The **Bandage eCommerce website** is now live! 🎉 It offers a seamless shopping experience with **secure authentication, cart & wishlist features, dynamic routing, shipment tracking, and Stripe payments** for smooth transactions.  
+
+---
+
+## **Key Features**  
+✅ **Authentication:** Email/Password (Auth + MongoDB), Google, GitHub, YouTube  
+✅ **E-Commerce:** Add to Cart, Wishlist, Product Details, Category-Based Filtering  
+✅ **User Profile:** Dynamic routing, order history  
+✅ **Shipping:** Integrated **ShipEngine** for real-time tracking  
+✅ **Payment:** Secure **Stripe** payments  
+
+---
+
+## **Deployment & Monitoring**  
+🚀 **Live Now:** Scalable hosting with performance tracking  
+🔍 **Monitoring:** Performance & security checks  
+📢 **Post-Launch:** Regular updates & UI/UX optimizations  
+
+[🌍 **Visit Bandage Store**](https://hackathon-ecommerce-tp2q.vercel.app)  
+
+---
+
+**Bandage** is built for a **secure & engaging** shopping experience. More updates coming soon! 🚀🔥  
