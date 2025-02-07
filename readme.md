@@ -44,6 +44,7 @@
 - 🛍️ Enhance features like inventory management and UI/UX.  
 
 ### 📘 Day 3: API Integration and Data Migration  
+
 [**📄 View Detailed Day 3 Document (PDF)**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day3_API_Integration_and_Data_Migration/Day3_API_Integration_and_Data_Migration.pdf)  
 
 
@@ -92,7 +93,7 @@ Design and develop **dynamic frontend components** to display marketplace data f
 **Happy Coding! 🚀**  
 
 ### 📘Day 4: Building Dynamic Frontend Components for Bandage Marketplace
-[**View Detailed Day 3 Document (PDF)**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day4_Building_Dynamic_Frontend_Components_for_Bandage/Day4_Building_Dynamic_Frontend_Components_for_Bandage.pdf)
+[**View Detailed Day 4 Document (PDF)**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day4_Building_Dynamic_Frontend_Components_for_Bandage/Day4_Building_Dynamic_Frontend_Components_for_Bandage.pdf)
 
 
 # Day 5: Testing, Error Handling, and Backend Integration Refinement 🚀
@@ -120,7 +121,7 @@ Day 5 ensured the marketplace is secure, optimized, and ready for real-world dep
 
 ### 🌟 *Day 5: Testing, Error Handling, and Backend Integration Refinement* 🌟
 
-[**📄 View Detailed Day 3 Document (PDF)**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day5_Testing_Error_Handling_and_Backend_Integration_Refinement/Day5_Testing_Error_Handling_and_Backend_Integration_Refinement.pdf)
+[**📄 View Detailed Day 5 Document (PDF)**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day5_Testing_Error_Handling_and_Backend_Integration_Refinement/Day5_Testing_Error_Handling_and_Backend_Integration_Refinement.pdf)
 
 [**📊 CSV-Based Testing Report**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day5_Testing_Error_Handling_and_Backend_Integration_Refinement/Testing_Report_Bandagecsv.csv)
 
@@ -159,7 +160,7 @@ The staging environment ensures a risk-free deployment by replicating production
 
 ### 🌟 *Day 6 - Deployment Preparation and Staging Environment Setup* 🌟
 
-[**📄 View Detailed Day 3 Document (PDF)**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day6_Deployment_Preparation_and_Staging_Environment_Setup/Day6_Deployment_Preparation_and_Staging_Environment_Setup.pdf)
+[**📄 View Detailed Day 6 Document (PDF)**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day6_Deployment_Preparation_and_Staging_Environment_Setup/Day6_Deployment_Preparation_and_Staging_Environment_Setup.pdf)
 
 [**📊 CSV-Based Testing Report**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day6_Deployment_Preparation_and_Staging_Environment_Setup/Testing_Report_Bandagecsv.csv)
 
@@ -191,3 +192,7 @@ The **Bandage eCommerce website** is now live! 🎉 It offers a seamless shoppin
 ---
 
 **Bandage** is built for a **secure & engaging** shopping experience. More updates coming soon! 🚀🔥  
+
+### 🌟 *Day 7 - Live Deployment and Post-Launch Practices* 🌟
+
+[**View Detailed Day 7 Document (PDF)**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day7_Live_Deployment_and_Post_Launch_Practices/HMMS_E-Commerce_Website.pdf)

@@ -63,4 +63,4 @@ The successful deployment of **Bandage** marks an important milestone. With a po
 
 ### 🌟 *Day 7 - Live Deployment and Post-Launch Practices* 🌟
 
-[**View Detailed Day 7 Document (PDF)**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day7_Live_Deployment_and_Post_Launch_Practices/HMMS E-Commerce Website.pdf)
+[**View Detailed Day 7 Document (PDF)**](https://github.com/muhammadmubashir72/Marketplace_Builder_Hackathon_Task_2025/blob/master/Day7_Live_Deployment_and_Post_Launch_Practices/HMMS_E-Commerce_Website.pdf)
